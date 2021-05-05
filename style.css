@@ -1,6 +1,6 @@
 body{
   text-align:center;
-  background:linear-gradient( #2fa18c 0%,#18bfd9 100% );
+  
   background-repeat:no-repeat;
 }
 h1{
@@ -46,4 +46,7 @@ img{
 }
 .link:hover{
     background-color: azure;
+}
+#sec{
+  background:linear-gradient( #2fa18c 0%,#18bfd9 100% );  
 }
